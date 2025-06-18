@@ -1,4 +1,5 @@
 Projeto: Calculadora Simples em Java
+
 🚀 Sobre o Projeto
 Este é um projeto simples de uma calculadora de linha de comando desenvolvida em Java puro. Seu objetivo principal é demonstrar uma sólida compreensão e aplicação das estruturas de decisão (if/else, switch-case) e o fluxo de controle de programas, garantindo que as operações matemáticas sejam realizadas corretamente com base na escolha do usuário.
 
